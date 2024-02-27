@@ -4,3 +4,6 @@
 
 - Para ejecutar el sistema, debes poner:
   ```npm install report
+
+
+Sistema de registro actualizado.
